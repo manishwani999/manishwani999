@@ -30,7 +30,7 @@
 ---
 
 ### 📫 Connect with Me  
-📧 Email: [wanimanishr@gmail.com](mailto:wanimanishr@gmail.com)
+📧 Email: wanimanishr@gmail.com                                  
 🔗 Portfolio: [manishwani.vercel.app](https://manishwani.vercel.app/)  
 💼 LinkedIn: [linkedin.com/in/manishwani999](https://linkedin.com/in/manishwani999)  
 📌 GitHub: [github.com/manishwani999](https://github.com/manishwani999)  
